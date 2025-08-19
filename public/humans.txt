@@ -1,0 +1,19 @@
+/* TEAM */
+Organization: KashmirKeWaris (KKW)
+Mission: Empowering Kashmiri identity & economic development
+Website: https://kashmirkewaris.org
+Contact: kashmirkewaris@gmail.com
+Social: @kashmirkewaris
+
+/* TECHNOLOGY */
+Stack: React 19, Vite, Bootstrap 5, Vercel
+Source Control: GitHub
+Hosting: Vercel
+API: Django REST Framework (planned)
+
+/* THANKS */
+Community: All volunteers, supporters, and partners of KKW
+Special thanks: The Kashmiri diaspora and youth who inspire this work
+
+/* LAST UPDATED */
+2025-08-19

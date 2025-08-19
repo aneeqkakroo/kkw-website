@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://kashmirkewaris.org/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://kashmirkewaris.org/about</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Our Work -->
+  <url><loc>https://kashmirkewaris.org/our-work</loc></url>
+  <url><loc>https://kashmirkewaris.org/our-work/scholarships</loc></url>
+  <url><loc>https://kashmirkewaris.org/our-work/internships</loc></url>
+  <url><loc>https://kashmirkewaris.org/our-work/skill-programs</loc></url>
+  <url><loc>https://kashmirkewaris.org/our-work/community-projects</loc></url>
+  <url><loc>https://kashmirkewaris.org/our-work/economic-development</loc></url>
+
+  <!-- Media -->
+  <url><loc>https://kashmirkewaris.org/media</loc></url>
+  <url><loc>https://kashmirkewaris.org/media/news</loc></url>
+  <url><loc>https://kashmirkewaris.org/media/articles</loc></url>
+  <url><loc>https://kashmirkewaris.org/media/press-releases</loc></url>
+  <url><loc>https://kashmirkewaris.org/media/gallery</loc></url>
+
+  <!-- Get Involved -->
+  <url><loc>https://kashmirkewaris.org/get-involved</loc></url>
+  <url><loc>https://kashmirkewaris.org/get-involved/volunteer</loc></url>
+  <url><loc>https://kashmirkewaris.org/get-involved/partner</loc></url>
+  <url><loc>https://kashmirkewaris.org/get-involved/donate</loc></url>
+  <url><loc>https://kashmirkewaris.org/get-involved/careers</loc></url>
+
+  <!-- Contact -->
+  <url><loc>https://kashmirkewaris.org/contact</loc></url>
+
+</urlset>
