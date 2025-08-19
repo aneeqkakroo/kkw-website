@@ -1,6 +1,6 @@
 import ProjectCard from "../components/cards/ProjectCard";
 import { Link } from "react-router-dom";
-import bg1 from "../assets/bg-1.jpg";
+import bg1 from "../assets/bg1.jpg";
 
 export default function Home() {
   return (
