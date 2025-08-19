@@ -1,6 +1,5 @@
 import ProjectCard from "../components/cards/ProjectCard";
 import { Link } from "react-router-dom";
-import bg1 from "../assets/bg1.jpg";
 
 export default function Home() {
   return (
@@ -11,7 +10,7 @@ export default function Home() {
       <section
       className="border-bottom py-5 text-light position-relative"
       style={{
-        backgroundImage: "url('src/assets/bg1.jpg')", // put hero-bg.jpg in public/assets or src/assets
+        backgroundImage: "url('/bg1.jpg')", // put hero-bg.jpg in public/assets or src/assets
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
